@@ -25,5 +25,9 @@
   "bugs": {
     "url": "https://github.com/Frijol/twitter-dangling-string/issues"
   },
-  "homepage": "https://github.com/Frijol/twitter-dangling-string"
+  "homepage": "https://github.com/Frijol/twitter-dangling-string",
+  "dependencies": {
+    "node-twitter": "^0.5.2",
+    "servo-pca9685": "^0.1.3"
+  }
 }
