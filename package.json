@@ -1,0 +1,29 @@
+{
+  "name": "twitter-dangling-string",
+  "version": "1.0.0",
+  "description": "A recreation of the ubuquitous computing Dangling String example, for a Twitter search stream",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Frijol/twitter-dangling-string.git"
+  },
+  "keywords": [
+    "tessel",
+    "iot",
+    "dangling",
+    "string",
+    "ubiquitous",
+    "computing",
+    "twitter",
+    "servo"
+  ],
+  "author": "Kelsey Breseman",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/Frijol/twitter-dangling-string/issues"
+  },
+  "homepage": "https://github.com/Frijol/twitter-dangling-string"
+}
